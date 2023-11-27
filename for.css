@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="code with pizzule">
+        <meta name="keywords" content="data,what is data, types of data,">
+        <mate name="description" content="i'm an engine that will supply subscripyion for you and make you have access to airtime purchasing">
+        <link rel="icon" href="images/IMG_20210423_221149_947.jpg">
+
+        <title>Document</title>
+        <style>
+            h3{
+                background-color: red;
+            }
+        </style>
+        <style>
+            h1{
+                background-color: green ;
+            }
+        </style>
+        <link rel="stylesheet" href="first.css">
+
+    </head>
+    <body>
+        
+        <!-- inline css/attribute css -->
+        <p style="color: white; background: black">
+            shade walks to her place of work everyday thhtssksn  an i came late taday
+        </p>
+        <h1>
+            it's good to serve God.
+        </h1> 
+        <h3>
+            this shit is really amazing
+        </h3>
+        <h6>
+            the homeboy is not here yet
+        </h6>
+        <h2>the woman came in when the man is ging outS</h2>
+        <h4>check your code and debug it</h4>
+        
+    </body>
+</html>
